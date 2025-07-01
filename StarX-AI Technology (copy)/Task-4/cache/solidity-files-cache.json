@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/user/Desktop/Blockchain_Developer_Test_Maneesh-M./StarX-AI Technology/Task-4/contracts/SocialMedia.sol": {
+      "lastModificationDate": 1751103365661,
+      "contentHash": "ba4163f5c30931c7901b394291d19e50",
+      "sourceName": "contracts/SocialMedia.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.19"
+      ],
+      "artifacts": [
+        "SocialMedia"
+      ]
+    }
+  }
+}
